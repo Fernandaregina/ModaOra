@@ -78,7 +78,7 @@ header {
     font-size: 14px;
 }
 .main_conteudo2 {
-    background: #003d52 url(/imagens/bg_detalhe.png) no-repeat right bottom ;
+    background: #003d52 url(./imagens/bg_detalhe.png) no-repeat right bottom ;
     height: 100vh;
 }
 .main_conteudo2_container {
